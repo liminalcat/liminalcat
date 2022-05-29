@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @liminalcat
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning html/css/js
-- 💞️ I’m looking to collaborate on simplicity
-- 📫 How to reach me : 
-hanjames3218@gmail.com
-
+HELLO FOLKS ! <br>
+Welcome to my github profile <br>
+Introduce me as liminalcat a.k.a Ryan Han 
+I'm a self taught web developer who passionate at making a fast, secure,
+and reliable website for clients
